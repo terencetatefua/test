@@ -13,3 +13,4 @@ Test 3
 =======
 dont add anything make a full sentence
 >>>>>>> 9f3a6908400798bb99ae9137fe0b807e28562d90
+>>>>>>> Just smile for me
